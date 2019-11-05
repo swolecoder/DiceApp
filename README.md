@@ -1,5 +1,7 @@
 
 # Dicee
 
+![](Dice.gif)
+
 
 
